@@ -1,2 +1,4 @@
-Archivo de prueba creado desde ChatGPT.
-Version: 1
+Archivo de prueba creado y modificado desde ChatGPT.
+Version: 2
+
+Esta segunda modificación confirma que la integración puede actualizar archivos en este repositorio.
